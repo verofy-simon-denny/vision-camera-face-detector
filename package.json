@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/rodgomesc/vision-camera-face-detector",
-  "author": "Rodrigo gomes <rodgomesc@gmail.com> (https://github.com/rodgomesc)",
+  "repository": "https://github.com/verofy-simon-denny/vision-camera-face-detector",
+  "author": "Simon Denny <simon.denny@v9.group> (https://github.com/verofy-simon-denny/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rodgomesc/vision-camera-face-detector/issues"
+    "url": "https://github.com/verofy-simon-denny/vision-camera-face-detector/issues"
   },
-  "homepage": "https://github.com/rodgomesc/vision-camera-face-detector#readme",
+  "homepage": "https://github.com/verofy-simon-denny/vision-camera-face-detector#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
