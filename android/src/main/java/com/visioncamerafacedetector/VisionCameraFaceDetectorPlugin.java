@@ -153,7 +153,7 @@ public class VisionCameraFaceDetectorPlugin extends FrameProcessorPlugin {
           //map.putDouble("smilingProbability", face.getSmilingProbability());
           
 
-          WritableMap contours = processFaceContours(face);
+          //WritableMap contours = processFaceContours(face);
           WritableMap bounds = processBoundingBox(face.getBoundingBox());
 
           map.putMap("bounds", bounds);
